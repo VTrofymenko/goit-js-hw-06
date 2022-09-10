@@ -7,5 +7,3 @@ categoriesList.forEach(item => {
     console.log(`Category: ${categoryTitle.textContent} 
     Elements: ${itemsQuantity.length}`);
 });
-
-
